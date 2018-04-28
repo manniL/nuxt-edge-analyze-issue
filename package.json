@@ -1,0 +1,15 @@
+{
+  "name": "blog.lichter.io",
+  "version": "1.0.0",
+  "description": "My blog frontend",
+  "author": "Alexander Lichter",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "start": "nuxt"
+  },
+  "dependencies": {
+    "markdown-it": "^8.4.1",
+    "nuxt-edge": "^2.0.0-25414361.b4a4a55"
+  }
+}
