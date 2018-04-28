@@ -16,3 +16,6 @@ See here[]()
 There must be a silent error while building. When I remove the import of `markdown-it`,
 everything works smooth again. On the other hand, the page (`/md`) is working as intended
 as well...
+
+
+If I swap the `app.css` with a preprocessor style file (eg. `app.scss`), the `app.scss` is displayed in the overview.
